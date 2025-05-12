@@ -4,6 +4,10 @@ html{
   width:100%;
 }
 
+body {
+  text-align:center;
+}
+
 #project {
   width:60%;
   padding:20px;
@@ -32,6 +36,7 @@ html{
   border:solid;
   border-color:purple;
   background-image:url(images/newstardew.png);
+  margin:auto;
 }
 
 /* ghosts */
