@@ -11,6 +11,14 @@ html{
   margin:auto;
 }
 
+#project ul {
+  text-align:left;
+}
+
+#project ul li {
+  margin-left:0;
+}
+
 #set img {
   position:absolute;
   width: 30px;
